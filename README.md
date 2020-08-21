@@ -1,5 +1,7 @@
 # PictionaryC4
 
+This project was a group project for the last two weeks of the Midland University Code Academy for which I served as tech lead. I also handled most of the socket logic and work and all of the sketch pad as well. I touched most of the project at one point or another as tech lead and helped make sure my team got the project done on time.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
 ## Development server
